@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GZabalaG
-- 👀 I’m interested in iOS 
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on iOS app projects
+- 👀 I’m interested in AI, ML & DL
+- 🌱 I’m currently learning to create my own models
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: g.zabalagarcia95@gmail.com
 
 <!---
